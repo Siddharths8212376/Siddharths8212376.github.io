@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme
 title: Siddharth S
 description: Hey there!
+github:
+  is_project_page: false
